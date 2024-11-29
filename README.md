@@ -1,16 +1,30 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mitsiki/mitsiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<pre><i>we conjure the spirits of the computer with our spells</i></pre>
 
-Here are some ideas to get you started:
+<h2></h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<samp># studying</samp>
+
+<p align="center">
+    <samp>
+      <a> currently learning about: </a>
+    </samp>
+</p>
+
+![Html](https://img.shields.io/badge/-Html-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=C&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+
+
+<br>
+
+<samp># about</samp>
+
+<samp>computer science student - music enjoyer</samp>
+
+<h2></h2><br>
+
+</div>
